@@ -9,7 +9,8 @@
     <Grid>
         <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="60,160,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
         <Button x:Name="button1" Content="Button" HorizontalAlignment="Left" Margin="137,43,0,0" VerticalAlignment="Top" Width="75" Click="button1_Click_1"/>
-        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="100" Margin="207,125,0,0" VerticalAlignment="Top" Width="100"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="100" Margin="195,172,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="button2" Content="Button" HorizontalAlignment="Left" Margin="377,105,0,0" VerticalAlignment="Top" Width="75" Click="button2_Click"/>
 
     </Grid>
 </Window>
