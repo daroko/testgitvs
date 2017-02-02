@@ -29,5 +29,10 @@ namespace testgitvs
         {
             MessageBox.Show("test klik");
         }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("test klik2");
+        }
     }
 }
